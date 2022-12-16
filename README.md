@@ -1,13 +1,13 @@
 # Toronto-Fitness-Club
 
-- For server:
+For server:
 
-First: source startup.sh
+- source startup.sh
 
-Then: ./run.sh
+- ./run.sh
 
-- For client:
+For client:
 
-First: ./startup.sh
+- ./startup.sh
 
-Then: ./run.sh
+- ./run.sh
