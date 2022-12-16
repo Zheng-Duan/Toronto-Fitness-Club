@@ -1,12 +1,12 @@
 # Toronto-Fitness-Club
-For backend:
+For server:
 
-source startup.sh
+First: source startup.sh
 
-./run.sh
+Then: ./run.sh
 
-For frontend:
+For client:
 
-./startup.sh
+First: ./startup.sh
 
-./run.sh
+Then: ./run.sh
