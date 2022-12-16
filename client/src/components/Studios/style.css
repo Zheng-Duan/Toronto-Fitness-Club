@@ -1,0 +1,78 @@
+.map-container{
+  width:80%;
+  height:100vh;
+  margin-left: auto; 
+  margin-right: 0;
+}
+
+.head_title{
+  font-size: 40px;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 0%;
+}
+
+.container{
+  padding-top: 0.5%;
+    display:flex;
+    height:100vh;
+    gap:5%;
+    padding-bottom: 3%;
+}
+
+.list{
+  width:30%;
+  padding:0rem;
+  
+  background: white;
+  color: rgb(14, 7, 7)
+}
+
+.search{
+  font-size:larger;
+  text-align:center;  
+  padding-right: auto;
+  padding-top: auto;
+}
+
+#under{
+  padding-top: 1%;
+  font-size: medium;
+}
+.map{
+  width:100%;
+  height:80vh;
+  padding-bottom: 5%;
+}
+
+#basic-addon2{
+  color:white;
+  background-color: #dc3545 !important;
+  font-family: Sans-Serif;
+}
+
+.black-border{
+  border: none
+}
+
+.subheader{
+  padding-top: 20%;
+  height:20vh;
+  padding:0;
+ 
+}
+
+.search-bar{
+  margin-inline: 29vw;
+
+}
+
+#studio-header{
+  margin-inline: 43vw;
+}
+
+.map-div{
+  height: 700px;
+  overflow: scroll;
+  padding-bottom: 5px;
+}
